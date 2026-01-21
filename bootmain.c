@@ -94,3 +94,5 @@ readseg(uchar* pa, uint count, uint offset)
   for(; pa < epa; pa += SECTSIZE, offset++)
     readsect(pa, offset);
 }
+// 学生：祁梓东 学号：202311591162
+// [BOOT] 祁梓东 2023111591162

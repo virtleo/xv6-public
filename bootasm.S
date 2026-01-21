@@ -86,3 +86,4 @@ gdtdesc:
   .word   (gdtdesc - gdt - 1)             # sizeof(gdt) - 1
   .long   gdt                             # address gdt
 
+# 北京语言大学 祁梓东 202311591162
